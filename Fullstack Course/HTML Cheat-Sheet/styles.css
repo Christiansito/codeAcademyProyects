@@ -1,0 +1,38 @@
+/*Universal Styles*/
+h1, h2, table {
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1, h2, th {
+    text-align: center;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(189, 91, 91);
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid darkcyan;
+    width: 650px;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+td {
+    border-top: 1px solid rgb(52, 133, 106);
+}
+
+.code {
+    background-color: bisque;
+}
